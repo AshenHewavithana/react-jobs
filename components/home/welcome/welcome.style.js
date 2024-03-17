@@ -53,6 +53,7 @@ const styles = StyleSheet.create({
     tintColor: COLORS.white,
   },
   tabsContainer: {
+    display: "flex",
     width: "100%",
     marginTop: SIZES.medium,
   },
